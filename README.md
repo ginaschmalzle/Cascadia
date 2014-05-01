@@ -1,7 +1,7 @@
-Talk on Cascadia Subdiuction Zone Creep
+**Talk on Cascadia Subdiuction Zone Creep**
 #############################################
 
-** Hi! ** 
+** Cascadia Subduction Zone ** 
 =========================================
 
 Please visit `geodesygina.com <http://geodesygina.com/>`_ for details.
